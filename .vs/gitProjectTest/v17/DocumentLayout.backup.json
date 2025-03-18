@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My_Projects\\Cpp_Games_2D_SFML\\gitProjectTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC408EE0-AE87-4A14-9E6D-F11E8BD7A7A9}|gitProjectTest\\gitProjectTest.vcxproj|D:\\My_Projects\\Cpp_Games_2D_SFML\\gitProjectTest\\gitProjectTest\\gitProjectTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC408EE0-AE87-4A14-9E6D-F11E8BD7A7A9}|gitProjectTest\\gitProjectTest.vcxproj|solutionrelative:gitProjectTest\\gitProjectTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "gitProjectTest.cpp",
+              "DocumentMoniker": "D:\\My_Projects\\Cpp_Games_2D_SFML\\gitProjectTest\\gitProjectTest\\gitProjectTest.cpp",
+              "RelativeDocumentMoniker": "gitProjectTest\\gitProjectTest.cpp",
+              "ToolTip": "D:\\My_Projects\\Cpp_Games_2D_SFML\\gitProjectTest\\gitProjectTest\\gitProjectTest.cpp",
+              "RelativeToolTip": "gitProjectTest\\gitProjectTest.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-18T20:21:37.222Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
